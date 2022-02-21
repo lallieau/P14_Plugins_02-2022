@@ -10,5 +10,7 @@ C'est un plugin React permettant d'afficher une modale.
 
 ## Installation :
 
+```
 $ npm install --save projet-14-plugin
 $ yarn add projet-14-plugin
+```
