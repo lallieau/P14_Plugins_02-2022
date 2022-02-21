@@ -11,7 +11,7 @@ C'est un plugin React permettant d'afficher une modale.
 ## Installation :
 
 ```
-$ npm install --save p14-plugin
+$ npm install --save projet14-plugin
 $ yarn add p14-plugin
 ```
 
