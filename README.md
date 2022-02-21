@@ -11,6 +11,34 @@ C'est un plugin React permettant d'afficher une modale.
 ## Installation :
 
 ```
-$ npm install --save projet-14-plugin
-$ yarn add projet-14-plugin
+$ npm install --save p14-plugin
+$ yarn add p14-plugin
+```
+
+### Comment fonctionne le plug-in
+
+#### Module d'importation :
+
+```
+import { Modal } from 'p14-plugin/dist'
+```
+
+#### Créez votre state dans votre composant :
+
+```
+  const [modalIsOpen, setModalIsOpen] = useState(false);
+```
+
+#### Affichez la modale dans votre composant :
+
+```
+    return (
+      <Modal
+        show={modalIsOpen}
+        setShow={setModalIsOpen}
+        title="Success !"
+        text="The new employee has been created"
+        image={done}
+      />
+    )
 ```

@@ -1,6 +1,7 @@
 {
-  "name": "projet-14-plugin",
+  "name": "p14-plugin",
   "author": "lallieau",
+  "homepage": "https://github.com/lallieau/P14_Plugins_02-2022",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -50,7 +51,7 @@
   "private": false,
   "files": [ "dist", "README.md" ], 
   "repository": { 
-    "type": " git", 
+    "type": "git", 
     "url": "https://github.com/lallieau/P14_Plugins_02-2022" 
   }
 }
