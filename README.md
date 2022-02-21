@@ -20,7 +20,7 @@ $ yarn add p14-plugin
 #### Module d'importation :
 
 ```
-import { Modal } from 'p14-plugin/dist'
+import { Modal } from 'projet-14-plugin/dist'
 ```
 
 #### Créez votre state dans votre composant :
