@@ -11,8 +11,8 @@ C'est un plugin React permettant d'afficher une modale.
 ## Installation :
 
 ```
-$ npm install --save p14-plugin
-$ yarn add p14-plugin
+$ npm install --save oc-p14-plugin
+$ yarn add oc-p14-plugin
 ```
 
 ### Comment fonctionne le plug-in
@@ -20,7 +20,7 @@ $ yarn add p14-plugin
 #### Module d'importation :
 
 ```
-import { Modal } from 'p14-plugin'
+import { Modal } from 'oc-p14-plugin'
 ```
 
 #### Créez votre state dans votre composant :
