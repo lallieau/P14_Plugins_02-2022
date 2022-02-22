@@ -2,6 +2,8 @@
 
 Openclassrooms - Parcours développeur Front-end
 
+Lien lib npm : https://www.npmjs.com/package/oc-p14-plugin
+
 ## Projet 14 : Faites passer une librairie jQuery vers React
 
 Le projet P14_Plugins_02-2022 est un plugin développé dans le cadre de la formation OpenClassRooms et plus précisémment pour le projet [P14_HRnet_02-2022](https://github.com/lallieau/P14_HRnet_02-2022).
