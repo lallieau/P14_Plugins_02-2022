@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
 
-* {
-  font-family: Poppins;
-}
-
 .modal {
   position: fixed;
   top: 0;
@@ -16,6 +12,7 @@
   align-items: center;
   justify-content: center;
   width: 100%;
+  font-family: sans-serif;
 }
 
 .modal_container {
